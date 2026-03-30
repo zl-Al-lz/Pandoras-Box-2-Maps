@@ -2,7 +2,33 @@
 <randomMaps 
   displayName="Pandoras Box 2 Maps" 
   imagepath="resources\maps\map_picker\PB2_AllMaps.png" 
-  helpText="Randomly selects from among all Pandoras Box 2 maps." 
+  helpText="Randomly selects from among all Pandoras Box 2 maps.
+  &#10;
+  &#10;
+  Maps available in the set:
+  &#10; 
+  Atacama
+   &#10; 
+  Budapest
+   &#10; 
+  Dry Arabia
+   &#10; 
+  Frozen Continent
+   &#10; 
+  Frozen Wastes
+   &#10; 
+  Gorge
+   &#10; 
+  Haywire
+   &#10; 
+  Hideout
+   &#10; 
+  King of the Hill
+   &#10; 
+  Prairie
+  &#10;
+  Socotra
+  "   
   cannotReplace=""
   landmap="">
   
