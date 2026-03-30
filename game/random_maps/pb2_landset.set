@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<randomMaps 
+  displayName="Pandoras Box 2 Land Maps" 
+  imagepath="resources\maps\map_picker\PB2_LandMaps_Set.png" 
+  helpText="Randomly selects from among all Pandoras Box 2 land maps. 
+  &#10;
+  &#10;
+  Maps available in the set:
+  &#10; 
+  Atacama
+   &#10; 
+  Budapest
+   &#10; 
+  Dry Arabia
+   &#10; 
+  Frozen Continent
+   &#10; 
+  Frozen Wastes
+   &#10; 
+  Gorge
+   &#10; 
+  Haywire
+   &#10; 
+  Hideout
+   &#10; 
+  King of the Hill
+   &#10; 
+  Prairie
+  &#10;
+  Socotra
+  " 
+  cannotReplace=""
+  landmap="">
+  
+  <map>atacama_libyan_desert_pb2_edition_final_release</map>
+  <map>dry_arabia_libyan_desert_pb2_edition_final_release</map>
+  <map>frozen_wastes_boreal_snowfield_pb2_edition_final_release</map>
+  <map>gorge_sichuan_highlands_pb2_edition_final_release</map>
+  <map>haywire_mediterranean_pb2_edition_final_release</map>
+  <map>hideout_greek_temperate_pb2_edition_final_release</map>
+  <map>king_of_the_hill_nordic_temperate_pb2_edition_final_release</map>
+  <map>prairie_egyptian_beach_pb2_edition_final_release</map>
+
+</randomMaps>

@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Frozen Continent - Final Release" 
+    detailsText = "A frozen continent rises from icy waters, dotted with scattered fish. Relics sleep beneath the frost, waiting to be claimed." 
+    loadDetailsText ="A frozen continent rises from icy waters, dotted with scattered fish. Relics sleep beneath the frost, waiting to be claimed."
+    imagepath = "resources\maps\map_picker\Frozen_Continent_Japanese_Alps.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Frozen_Continent_Japanese_Alps.png"
+    watermap="">
+</mapinfo>

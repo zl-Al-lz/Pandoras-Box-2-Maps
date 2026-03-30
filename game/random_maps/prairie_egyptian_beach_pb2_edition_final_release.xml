@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Prairie - Final Release" 
+    detailsText = "The exposed landscape demands a rapid expansion and leaves everyone vulnerable to raids from any directions." 
+    loadDetailsText ="The exposed landscape demands a rapid expansion and leaves everyone vulnerable to raids from any directions."
+    imagepath = "resources\maps\map_picker\Prairie_Egyptian_Beach.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Prairie_Egyptian_Beach.png"
+    landmap="">
+</mapinfo>

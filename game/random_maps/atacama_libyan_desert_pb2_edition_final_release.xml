@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Atacama - Final Release" 
+    detailsText = "A vast desert stretches beneath the sun, with wood gathered only at its center. Scattered ponds break the dry expanse, where hippopotamuses roam." 
+    loadDetailsText ="A vast desert stretches beneath the sun, with wood gathered only at its center. Scattered ponds break the dry expanse, where hippopotamuses roam."
+    imagepath = "resources\maps\map_picker\Atacama_Libyan_Desert.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Atacama_Libyan_Desert.png"
+    landmap="">
+</mapinfo>

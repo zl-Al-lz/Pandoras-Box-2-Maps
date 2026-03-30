@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Frozen Wastes - Final Release" 
+    detailsText = "Amid a silent frozen sea lies a vast, icebound land. Gold glimmers only along the far shores, pulling armies into the cold, unforgiving wastes beyond." 
+    loadDetailsText ="Amid a silent frozen sea lies a vast, icebound land. Gold glimmers only along the far shores, pulling armies into the cold, unforgiving wastes beyond."
+    imagepath = "resources\maps\map_picker\Frozen_Wastes_Boreal_Snowfield.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Frozen_Wastes_Boreal_Snowfield.png"
+    landmap="">
+</mapinfo>

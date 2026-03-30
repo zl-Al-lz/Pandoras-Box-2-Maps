@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Dry Arabia - Final Release" 
+    detailsText = "An open map inspired by the classic Arabia map from Age of Empires." 
+    loadDetailsText ="An open map inspired by the classic Arabia map from Age of Empires."
+    imagepath = "resources\maps\map_picker\Dry_Arabia_Libyan_Desert.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Dry_Arabia_Libyan_Desert.png"
+    landmap="">
+</mapinfo>

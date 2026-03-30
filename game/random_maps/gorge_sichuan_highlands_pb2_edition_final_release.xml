@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Gorge - Final Release" 
+    detailsText = "Only an open terrain separates you from your enemies in the gorge. Above the ravine, beside the mountain, forests and many resources await those brave enough to take a path other than the central battle." 
+    loadDetailsText ="Only an open terrain separates you from your enemies in the gorge. Above the ravine, beside the mountain, forests and many resources await those brave enough to take a path other than the central battle."
+    imagepath = "resources\maps\map_picker\Gorge_Sichuan_Highlands.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Gorge_Sichuan_Highlands.png"
+    landmap="">
+</mapinfo>

@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Budapest - Final Release" 
+    detailsText = "Four expansive lakes and a plethora of wild animals propose battles of extraordinary intensity." 
+    loadDetailsText ="Four expansive lakes and a plethora of wild animals propose battles of extraordinary intensity."
+    imagepath = "resources\maps\map_picker\Budapest_Greek_Temperate.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Budapest_Greek_Temperate.png"
+    watermap="">
+</mapinfo>

@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Socotra - Final Release" 
+    detailsText = "Battle in Socotra, a tiny island where players are extremely close to each other and fight to claim the few resources found on the island." 
+    loadDetailsText="Battle in Socotra, a tiny island where players are extremely close to each other and fight to claim the few resources found on the island."
+    imagepath = "resources\maps\map_picker\Socotra_Lush_Savannah.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Socotra_Lush_Savannah.png"
+    watermap="">
+</mapinfo>

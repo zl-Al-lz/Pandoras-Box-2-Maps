@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<randomMaps 
+  displayName="Pandoras Box 2 Water Maps" 
+  imagepath="resources\maps\map_picker\PB2_WaterMaps_Set.png" 
+  helpText="Randomly selects from among all Pandoras Box 2 water maps. 
+  &#10;
+  &#10;
+  Maps available in the set:
+  &#10; 
+  Budapest
+   &#10; 
+  Frozen Continent
+   &#10; 
+  Socotra
+  " 
+  cannotReplace=""
+  watermap="">
+  
+  <map>budapest_greek_temperate_pb2_edition_final_release</map>
+  <map>frozen_continent_japanese_alps_pb2_edition_final_release</map>
+  <map>socotra_lush_savannah_pb2_edition_final_release</map>
+
+</randomMaps>

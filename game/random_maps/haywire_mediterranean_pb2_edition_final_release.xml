@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Haywire - Final Release" 
+    detailsText = "Expand outwards, away from the chaotic center, where both allies and foes are settled in close proximity." 
+    loadDetailsText = "Expand outwards, away from the chaotic center, where both allies and foes are settled in close proximity."
+    imagepath = "resources\maps\map_picker\Haywire_Mediterranean.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Haywire_Mediterranean.png"
+    landmap="">
+</mapinfo>

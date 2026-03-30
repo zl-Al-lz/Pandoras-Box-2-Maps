@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - Hideout - Final Release" 
+    detailsText = "Though the starting location is safe, players will soon need to venture outside their shelters in search of resources." 
+    loadDetailsText ="Though the starting location is safe, players will soon need to venture outside their shelters in search of resources."
+    imagepath = "resources\maps\map_picker\Hideout_Greek_Temperate.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\Hideout_Greek_Temperate.png"
+    landmap="">
+</mapinfo>

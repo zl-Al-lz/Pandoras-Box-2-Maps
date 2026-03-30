@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo 
+    displayName = "PB2 - King of the Hill - Final Release" 
+    detailsText = "Fight for the resources located on the central hills of the map!" 
+    loadDetailsText ="Fight for the resources located on the central hills of the map!"
+    imagepath = "resources\maps\map_picker\King_of_the_Hill_Nordic_Temperate_3_8.png" 
+    cannotReplace = "" 
+    loadBackground="resources\maps\previews\King_of_the_Hill_Nordic_Temperate.png"
+    landmap="">
+</mapinfo>
